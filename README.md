@@ -1,0 +1,1 @@
+# atividade_programacao_OpenMP
